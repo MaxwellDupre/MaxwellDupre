@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaxwellDupre
-- 👀 I’m interested in Python dev, Rust, HeroX, etc.
-- 🌱 I’m currently learning Cpython, Rust
-- 💞️ I’m looking to collaborate on Cpython
+- 👀 I’m interested in Nix, Python, Rust, HeroX, etc.
+- 🌱 I’m currently learning Nix, Nix pkgs, with Python.
 - 📫 How to reach me..
 
 <!---
